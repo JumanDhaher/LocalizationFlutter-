@@ -1,6 +1,6 @@
 # international_app
 
-A new Flutter project.
+Loclization feature with flutter.
 
 ## Getting Started
 
